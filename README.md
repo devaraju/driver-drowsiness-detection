@@ -10,12 +10,8 @@ place the predictor file in the directory where the programe file exist.
 ## Usage
 code.py contains the drowsiness detection programe which was implemented in python2.
 
-```
-python code.py
-```
+> python code.py
 
 drowsiness_detection.py file contains drowsiness detection program integrated with GUI.
 
-```
-python drowsiness_detection.py
-```
+> python drowsiness_detection.py
